@@ -1,4 +1,4 @@
-## :ledger: App Ideas Collection
+## :ledger: App Ideas Collection @Michaeloye
 
 ![App Ideas Image](./app-ideas.png)
 
